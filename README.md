@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Termux Telegram File Store Bot Banner" width="100%" />
+  <img src="assets/banner.png" alt="Termux Telegram File Store Bot Banner" width="100%" />
 </p>
 
 <h1 align="center">📁 Termux Telegram File Store Bot</h1>
